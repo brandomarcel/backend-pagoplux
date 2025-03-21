@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Entornos
+.env
+.env.*.local
+
+# Directorios de construcción
+dist/
+build/
+coverage/
+
+# Logs
+logs/
+*.log
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db
+
+# IDEs / editores
+.vscode/
+.idea/
+
+# Test output
+test-results/
+jest-html-reporters-*
+
+# Archivos temporales
+*.tmp
+*.temp
+*.swp
